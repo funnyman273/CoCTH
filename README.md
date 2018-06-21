@@ -1,2 +1,2 @@
 # CoCTH
-# eee
+Just a simple program
